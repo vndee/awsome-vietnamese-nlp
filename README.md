@@ -14,10 +14,11 @@
 #### Text Processing Toolkit
 - [coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer): High performance tokenizer for Vietnamese language. It is written in C++ with Python and Java bindings.
 - [RDRSegmenter](https://github.com/datquocnguyen/RDRsegmenter):  Fast and accurate Vietnamese word segmenter (LREC 2018).
+- [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP):  A Vietnamese natural language processing toolkit (NAACL 2018).
 - [vlp-tok](https://github.com/phuonglh/vlp): Vietnamese text processing library developed in the Scala programming language.
 - [nnvlp](https://github.com/pth1993/NNVLP): Neural network-based Vietnamese language processing toolkit.
 - [vi_spacy](https://github.com/trungtv/vi_spacy): vietnamese language model compatible with Spacy.
-- [underthesea-word-tokenize](https://github.com/undertheseanlp/word_tokenize): Vietnamese word tokenize from  undertheseanlp.
+- [underthesea](https://underthesea.readthedocs.io/en/latest/readme.html): Underthesea - Vietnamese NLP toolkit.
 - [vnlp](https://bitbucket.org/epilab/vnlp/wiki/Home): GATE plugin for Vietnamese language processing.
 - [pyvi](https://github.com/trungtv/pyvi): Python Vietnamese toolkit.
 - [JVnTextPro](http://jvntextpro.sourceforge.net/): Java-based Vietnamese text processing tool.
@@ -25,7 +26,6 @@
 - [VLSP Toolkit](https://vlsp.hpda.vn/demo/?page=resources): Vietnamese tokenizer from VLSP.
 - [vTools](https://github.com/lupanh/vTools): Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker.
 - [JNSP](http://jnsp.sourceforge.net/): Java Implementation of Ngram Statistic Package.
-- []
 
 #### 
 
