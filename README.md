@@ -10,13 +10,16 @@
 - [Vietnamese Treebank](https://vlsp.hpda.vn/demo/?page=resources): VLSP Project.
 - [Vietnamese Stopwords](https://github.com/stopwords/vietnamese-stopwords):  Vietnamese stopwords.
 - [Vietnamese Dictionary](https://www.informatik.uni-leipzig.de/~duc/Dict/): Vietnamese dictionary.
+- [vietnamese-wordnet](https://github.com/zeloru/vietnamese-wordnet): Vietnamese wordnet.
 
 #### Text Processing Toolkit
 - [coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer): High performance tokenizer for Vietnamese language. It is written in C++ with Python and Java bindings.
 - [RDRSegmenter](https://github.com/datquocnguyen/RDRsegmenter):  Fast and accurate Vietnamese word segmenter (LREC 2018).
+- [RDRPOSTagger](https://github.com/datquocnguyen/RDRPOSTagger): Fast and accurate POS and morphological tagging toolkit (EACL 2014).
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP):  A Vietnamese natural language processing toolkit (NAACL 2018).
 - [vlp-tok](https://github.com/phuonglh/vlp): Vietnamese text processing library developed in the Scala programming language.
 - [nnvlp](https://github.com/pth1993/NNVLP): Neural network-based Vietnamese language processing toolkit.
+- [jPTDP](https://github.com/datquocnguyen/jPTDP):  Neural network models for joint POS tagging and dependency parsing (CoNLL 2017-2018).
 - [vi_spacy](https://github.com/trungtv/vi_spacy): vietnamese language model compatible with Spacy.
 - [underthesea](https://underthesea.readthedocs.io/en/latest/readme.html): Underthesea - Vietnamese NLP toolkit.
 - [vnlp](https://bitbucket.org/epilab/vnlp/wiki/Home): GATE plugin for Vietnamese language processing.
