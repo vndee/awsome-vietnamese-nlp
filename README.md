@@ -1,6 +1,6 @@
-## Vietnamese Natural Language Processing Resources
+# Vietnamese Natural Language Processing Resources
 
-#### Corpus
+### Corpus
 - [VN News Corpus](https://github.com/binhvq/news-corpus): 50GB of uncompressed texts crawled from a wide range ofnews websites and topics.
 - [VNESEcorpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 650.000 sentences from vietnamnet.vn, dantri.com.vn, nhandan.com.vn.
 - [VNTQcorpus(samll)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 300.000 sentences from vnthuquan.net.
@@ -11,7 +11,7 @@
 - [Vietnamese Dictionary](https://www.informatik.uni-leipzig.de/~duc/Dict/): Vietnamese dictionary.
 - [vietnamese-wordnet](https://github.com/zeloru/vietnamese-wordnet): Vietnamese wordnet.
 
-#### Text Processing Toolkit
+### Text Processing Toolkit
 - [coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer): High performance tokenizer for Vietnamese language. It is written in C++ with Python and Java bindings.
 - [RDRSegmenter](https://github.com/datquocnguyen/RDRsegmenter):  Fast and accurate Vietnamese word segmenter (LREC 2018).
 - [RDRPOSTagger](https://github.com/datquocnguyen/RDRPOSTagger): Fast and accurate POS and morphological tagging toolkit (EACL 2014).
@@ -29,11 +29,15 @@
 - [vTools](https://github.com/lupanh/vTools): Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker.
 - [JNSP](http://jnsp.sourceforge.net/): Java Implementation of Ngram Statistic Package.
 
-#### Pretrained Language Model
+### Pre-trained Language Model
 - [RoBERTa Vietnamese](https://github.com/nguyenvulebinh/vietnamese-roberta): Pre-trained embedding using RoBERTa architecture on Vietnamese corpus.
 - [PhoBERT](https://github.com/VinAIResearch/PhoBERT): Pre-trained language models for Vietnamese (another implementation of RoBERTa for Vietnamese).
 - [ALBERT for Vietnamese](https://github.com/ngoanpv/albert_vi): "A Lite" version of BERT for Vietnamese.
+- [Vietnamese ELECTRA](https://github.com/nguyenvulebinh/vietnamese-electra):  Electra pre-trained model using Vietnamese corpus.
 
-#### Text-To-Speech
-##### Dataset:
+### Sentiment Analysis 
+
+
+### Text-To-Speech
+#### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
