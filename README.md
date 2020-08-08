@@ -43,8 +43,8 @@
     
         | Model                 | F1 | Paper | Code |
         |-----------------------|----|-------|------|
-        | Perceptron/SVM/Maxent |  80.05  |       |      |
-        |                       |    |       |      |
+        | Perceptron/SVM/Maxent |  80.05  |   DSKTLAB: Vietnamese Sentiment Analysis for Product Reviews  |      |
+        | SVM/MLNN/LSTM | 71.44   | A Simple Supervised Learning Approach to Sentiment Classification at VLSP 2016 |      |
 
 ### Text-To-Speech
 #### Dataset:
