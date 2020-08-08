@@ -50,7 +50,13 @@
         | SVM | 67.54 | Sentiment Analysis for Vietnamese using Support Vector Machines with application to Facebook comments | |
         | SVM/MLNN | 67.23 | A Multi-layer Neural Network-based System for Vietnamese Sentiment Analysis at the VLSP 2016 Evaluation Campaign | |
         | Multi-channel LSTM-CNN | 59.61 | Multi-channel LSTM-CNN model for Vietnamese sentiment analysis | [official](https://github.com/ntienhuy/MultiChannel) |
-        
+
+- **[VLSP 2018 Shared Task: Aspect Based Sentiment Analysis](https://vlsp.org.vn/vlsp2018)**.
+    - **Restaurant Dataset**: 2961 reviews (train), 1290 reviews (development), 500 reviews (test)
+    
+        | Model| Aspect (F1) | Paper | Code |
+        |---|---|---|---|
+        |CNN | | | |
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
