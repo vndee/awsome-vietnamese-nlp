@@ -37,10 +37,14 @@
 
 ### Sentiment Analysis
 #### Benchmark
-- **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**:
+- **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**.
     - Train: 5100 sentences (1700 positive, 1700 neutral, 1700 negative).
-    - Test: 1050 sentences (350 positive, 350 neutral, 350 negative). 
-
+    - Test: 1050 sentences (350 positive, 350 neutral, 350 negative).
+    
+        | Model                 | F1 | Paper | Code |
+        |-----------------------|----|-------|------|
+        | Perceptron/SVM/Maxent |  80.05  |       |      |
+        |                       |    |       |      |
 
 ### Text-To-Speech
 #### Dataset:
