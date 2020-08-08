@@ -6,7 +6,7 @@
 - [VNESEcorpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 650.000 sentences from vietnamnet.vn, dantri.com.vn, nhandan.com.vn.
 - [VNTQcorpus(samll)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 300.000 sentences from vnthuquan.net.
 - [VNTQcorpus(big)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 1.750.000 sentences from vnthuquan.net.
-- [WikiDumps](https://dumps.wikimedia.org/): You can download directly or use [viwik18](https://github.com/NTT123/viwik18), [viwik](https://github.com/NTT123/viwik19).
+- [WikiDumps](https://dumps.wikimedia.org/): You can download directly or use [viwik18](https://github.com/NTT123/viwik18), [viwik19](https://github.com/NTT123/viwik19).
 
 
 ### Text-To-Speech
