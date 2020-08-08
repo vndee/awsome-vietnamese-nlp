@@ -40,12 +40,12 @@
 - **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**.
     - Train: 5100 sentences (1700 positive, 1700 neutral, 1700 negative).
     - Test: 1050 sentences (350 positive, 350 neutral, 350 negative).
-    
+
         | Model                 | F1 | Paper | Code |
         |-----------------------|----|-------|------|
         | Perceptron/SVM/Maxent |  80.05  |   DSKTLAB: Vietnamese Sentiment Analysis for Product Reviews  |      |
         | SVM/MLNN/LSTM | 71.44   | A Simple Supervised Learning Approach to Sentiment Classification at VLSP 2016 |      |
-
+        | Ensemble: Random forest, SVM, Naive Bayes | 71.22 | A Lightweight Ensemble Method for Sentiment Classification Task | |
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
