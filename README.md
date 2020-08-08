@@ -9,7 +9,7 @@
 - [WikiDumps](https://dumps.wikimedia.org/): You can download directly or use scripts from [viwik18](https://github.com/NTT123/viwik18), [viwik19](https://github.com/NTT123/viwik19).
 
 
-#### Word Tokenizer and Segmentation
+#### Text Processing Toolkit
 - [coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer): High performance tokenizer for Vietnamese language. It is written in C++ with Python and Java bindings.
 - [RDRSegmenter](https://github.com/datquocnguyen/RDRsegmenter):  Fast and accurate Vietnamese word segmenter (LREC 2018).
 - [vlp-tok](https://github.com/phuonglh/vlp): Vietnamese text processing library developed in the Scala programming language.
@@ -18,6 +18,7 @@
 - [underthesea-word-tokenize](https://github.com/undertheseanlp/word_tokenize): Vietnamese word tokenize from  undertheseanlp.
 - [vnlp](https://bitbucket.org/epilab/vnlp/wiki/Home): GATE plugin for Vietnamese language processing.
 - [pyvi](https://github.com/trungtv/pyvi): Python Vietnamese toolkit.
+- [JVnTextPro](http://jvntextpro.sourceforge.net/): Java-based Vietnamese text processing tool.
 - [DongDu](https://github.com/rockkhuya/DongDu): C++ implementation of Vietnamese word segmentation tool.
 - [vnTokenizer](https://vlsp.hpda.vn/demo/?page=resources): Vietnamese tokenizer from VLSP.
 - [vTools](https://github.com/lupanh/vTools): Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker.
