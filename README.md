@@ -46,6 +46,11 @@
         | Perceptron/SVM/Maxent |  80.05  |   DSKTLAB: Vietnamese Sentiment Analysis for Product Reviews  |      |
         | SVM/MLNN/LSTM | 71.44   | A Simple Supervised Learning Approach to Sentiment Classification at VLSP 2016 |      |
         | Ensemble: Random forest, SVM, Naive Bayes | 71.22 | A Lightweight Ensemble Method for Sentiment Classification Task | |
+        | Ensemble: SVM, LR, LSTM, CNN | 69.71 | An Ensemble of Shallow and Deep Learning Algorithms for Vietnamese Sentiment Analysis | |
+        | SVM | 67.54 | Sentiment Analysis for Vietnamese using Support Vector Machines with application to Facebook comments | |
+        | SVM/MLNN | 67.23 | A Multi-layer Neural Network-based System for Vietnamese Sentiment Analysis at the VLSP 2016 Evaluation Campaign | |
+        | Multi-channel LSTM-CNN | 59.61 | Multi-channel LSTM-CNN model for Vietnamese sentiment analysis | [official](https://github.com/ntienhuy/MultiChannel) |
+        
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
