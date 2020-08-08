@@ -1,7 +1,6 @@
 ## Vietnamese Natural Language Processing Resources
 
 #### Corpus
-
 - [VN News Corpus](https://github.com/binhvq/news-corpus): 50GB of uncompressed texts crawled from a wide range ofnews websites and topics.
 - [VNESEcorpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 650.000 sentences from vietnamnet.vn, dantri.com.vn, nhandan.com.vn.
 - [VNTQcorpus(samll)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 300.000 sentences from vnthuquan.net.
@@ -30,7 +29,9 @@
 - [vTools](https://github.com/lupanh/vTools): Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker.
 - [JNSP](http://jnsp.sourceforge.net/): Java Implementation of Ngram Statistic Package.
 
-#### 
+#### Pretrained Language Model
+- [PhoBERT](https://github.com/VinAIResearch/PhoBERT): Pre-trained language models for Vietnamese.
+- [ALBERT for Vietnamese](https://github.com/ngoanpv/albert_vi): "A Lite" version of BERT for Vietnamese.
 
 #### Text-To-Speech
 ##### Dataset:
