@@ -30,7 +30,8 @@
 - [JNSP](http://jnsp.sourceforge.net/): Java Implementation of Ngram Statistic Package.
 
 #### Pretrained Language Model
-- [PhoBERT](https://github.com/VinAIResearch/PhoBERT): Pre-trained language models for Vietnamese.
+- [RoBERTa Vietnamese](https://github.com/nguyenvulebinh/vietnamese-roberta): Pre-trained embedding using RoBERTa architecture on Vietnamese corpus.
+- [PhoBERT](https://github.com/VinAIResearch/PhoBERT): Pre-trained language models for Vietnamese (another implementation of RoBERTa for Vietnamese).
 - [ALBERT for Vietnamese](https://github.com/ngoanpv/albert_vi): "A Lite" version of BERT for Vietnamese.
 
 #### Text-To-Speech
