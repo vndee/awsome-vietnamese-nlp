@@ -108,8 +108,8 @@
     | vELECTRA + BiLSTM + Attention | 94.07 | Improving Sequence Tagging for Vietnamese Text Using Transformer-based Neural Models | |
     | PhoBERT_base | 93.6 | PhoBERT: Pre-trained language models for Vietnamese | [official](https://github.com/VinAIResearch/PhoBERT) |
     | XLM-R | 92.0 | PhoBERT: Pre-trained language models for Vietnamese | |
-    | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
-    | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
+    | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approach to select pre-trained embeddings for a downstream task | |
+    | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approach to select pre-trained embeddings for a downstream task | |
     | VNER: Attentive Neural Network | 89.6 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
     | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: A Vietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
     | LSTM + CRF | 66.07 | An investigation of Vietnamese Nested Entity Recognition Models | |
