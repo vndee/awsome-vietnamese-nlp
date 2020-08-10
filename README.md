@@ -4,6 +4,7 @@
 - [Text Processing Toolkit](#Text-Processing-Toolkit)
 - [Pre-trained Language Model](#Pre-trained-Language-Model)
 - [Sentiment Analysis](#Sentiment-Analysis)
+- [Named Entity Recognition](#named-entity-recognition)
 
 ### Corpus
 - [VN News Corpus](https://github.com/binhvq/news-corpus): 50GB of uncompressed texts crawled from a wide range ofnews websites and topics.
