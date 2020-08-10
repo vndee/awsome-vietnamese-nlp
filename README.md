@@ -95,6 +95,17 @@
 - T. P. Quynh-Trang, N. Xuan-Truong, T. Van-Hien, N. Thi-Cham, and T. Mai-Vu, "Dsktlab: Vietnamese sentiment analysis for product reviews," in The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016), 2016.
 - Kieu, Binh & Pham, Son. Sentiment Analysis for Vietnamese. 152 - 157. 10.1109/KSE.2010.33, (2010).
 
+### Named Entity Recognition
+#### Benchmark
+- **[VLSP 2018 Shared Task: Named Entity Recognition Paper](http://vjs.ac.vn/index.php/jcc/article/view/13161/103810382796)**.
+
+    | Model | F1 | Paper | Code |
+    |-------|----|-------|------|
+    | VNER: Attentive Neural Network | 77.52 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
+    | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
+    | BiLSTM | 74.70 | ZA-NER: Vietnamese Named Entity Recognition at VLSP 2018 Evaluation Campaign | |
+    | LSTM + CRF | 66.07 | An investigation of Vietnamese Nested Entity Recognition Models | |
+
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
