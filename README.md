@@ -52,15 +52,22 @@
         | Multi-channel LSTM-CNN | 59.61 | Multi-channel LSTM-CNN model for Vietnamese sentiment analysis | [official](https://github.com/ntienhuy/MultiChannel) |
 
 - **[VLSP 2018 Shared Task: Aspect Based Sentiment Analysis](https://vlsp.org.vn/vlsp2018)**.
-    - **Restaurant Dataset**: 2961 reviews (train), 1290 reviews (development), 500 reviews (test)
+    - **Restaurant Dataset**: 2961 reviews (train), 1290 reviews (development), 500 reviews (test).
     
         | Model| Aspect (F1) | Aspect Polarity (F1) | Paper | Code |
         |---|---|---|---|---|
-        | CNN | 0.80 | |Deep Learning for Aspect Detection on Vietnamese Reviews | |
+        | CNN | 0.80 | | Deep Learning for Aspect Detection on Vietnamese Reviews | |
         | SVM | 0.77 | 0.61 | NLP@UIT at VLSP 2018: A Supervised Method For Aspect Based Sentiment Analysis | |
         | SVM | 0.54 | 0.48 | Using Multilayer Perceptron for Aspect-based Sentiment Analysis at VLSP 2018 SA Task | |
     
+    - **Hotel Dataset**: 3000 reviews (training), 2000 reviews (development), 600 reviews (test).
         
+        | Model| Aspect (F1) | Aspect Polarity (F1) | Paper | Code |
+        |---|---|---|---|---|
+        | SVM | 0.70 | 0.61 | NLP@UIT at VLSP 2018: A Supervised Method For Aspect Based Sentiment Analysis | |
+        | CNN | 0.69 | | Deep Learning for Aspect Detection on Vietnamese Reviews | |
+        | SVM | 0.56 | 0.53 | Using Multilayer Perceptron for Aspect-based Sentiment Analysis at VLSP 2018 SA Task | |
+    
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
