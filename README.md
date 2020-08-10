@@ -111,7 +111,7 @@
     | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
     | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
     | VNER: Attentive Neural Network | 89.6 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
-    | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: AVietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
+    | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: A Vietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
     | LSTM + CRF | 66.07 | An investigation of Vietnamese Nested Entity Recognition Models | |
 - **[VLSP 2018 Shared Task: Named Entity Recognition](https://www.researchgate.net/publication/331956361_VLSP_Shared_Task_Named_Entity_Recognition)**
 
