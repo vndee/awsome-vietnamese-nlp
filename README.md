@@ -102,7 +102,9 @@
 
     | Model | F1 | Paper | Code |
     |-------|----|-------|------|
-    | PhoBERT | 94.7 | PhoBERT: Pre-trained language models for Vietnamese | [official](https://github.com/VinAIResearch/PhoBERT) | 
+    | PhoBERT_large | 94.7 | PhoBERT: Pre-trained language models for Vietnamese | [official](https://github.com/VinAIResearch/PhoBERT) | 
+    | vELECTRA + BiLSTM + Attention | 94.07 | Improving Sequence Tagging for Vietnamese Text Using Transformer-based Neural Models | |
+    | PhoBERT_base | 93.6 | PhoBERT: Pre-trained language models for Vietnamese | [official](https://github.com/VinAIResearch/PhoBERT) |
     | XLM-R | 92.0 | PhoBERT: Pre-trained language models for Vietnamese | |
     | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
     | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
