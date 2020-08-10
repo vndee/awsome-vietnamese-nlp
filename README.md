@@ -111,10 +111,16 @@
     | BERT multiligual | 90.75 | | [official](https://github.com/dat821168/bert_vn_ner) |
     | VNER: Attentive Neural Network | 89.6 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
     | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: AVietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
-    | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
-    | BiLSTM | 74.70 | ZA-NER: Vietnamese Named Entity Recognition at VLSP 2018 Evaluation Campaign | |
     | LSTM + CRF | 66.07 | An investigation of Vietnamese Nested Entity Recognition Models | |
+- **[VLSP 2018 Shared Task: Named Entity Recognition](https://www.researchgate.net/publication/331956361_VLSP_Shared_Task_Named_Entity_Recognition)**
 
+    | Model | F1 | Paper | Code |
+    |-------|----|-------|------|
+    | vELECTRA + BiGRU | 90.31 | Improving Sequence Tagging for Vietnamese Text Using Transformer-based Neural Models | |
+    | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
+    | ZA-NER | 74.70 | ZA-NER: Vietnamese Named Entity Recognition at VLSP 2018 Evaluation Campaign | |
+
+    
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
