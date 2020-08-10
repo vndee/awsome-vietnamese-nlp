@@ -43,7 +43,7 @@
 
 ### Sentiment Analysis
 #### Benchmark
-- **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**.
+- **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**
     - Train: 5100 sentences (1700 positive, 1700 neutral, 1700 negative).
     - Test: 1050 sentences (350 positive, 350 neutral, 350 negative).
 
@@ -57,7 +57,7 @@
         | SVM/MLNN | 67.23 | A Multi-layer Neural Network-based System for Vietnamese Sentiment Analysis at the VLSP 2016 Evaluation Campaign | |
         | Multi-channel LSTM-CNN | 59.61 | Multi-channel LSTM-CNN model for Vietnamese sentiment analysis | [official](https://github.com/ntienhuy/MultiChannel) |
 
-- **[VLSP 2018 Shared Task: Aspect Based Sentiment Analysis](https://vlsp.org.vn/vlsp2018)**.
+- **[VLSP 2018 Shared Task: Aspect Based Sentiment Analysis](https://vlsp.org.vn/vlsp2018)**
     - **Restaurant Dataset**: 2961 reviews (train), 1290 reviews (development), 500 reviews (test).
     
         | Model| Aspect (F1) | Aspect Polarity (F1) | Paper | Code |
@@ -74,7 +74,7 @@
         | CNN | 0.69 | | Deep Learning for Aspect Detection on Vietnamese Reviews | |
         | SVM | 0.56 | 0.53 | Using Multilayer Perceptron for Aspect-based Sentiment Analysis at VLSP 2018 SA Task | |
 
-- **[Vietnamese Student's Feedback Corpus (UIT-VSFC)](https://ieeexplore.ieee.org/document/8573337)**.
+- **[Vietnamese Student's Feedback Corpus (UIT-VSFC)](https://ieeexplore.ieee.org/document/8573337)**
     - UIT-VSFC consists of over 16,000 sentences for sentiment analysis and topic classification.
     
         | Model | Sentiment (F1) | Topic (F1) | Paper | Code |
@@ -98,12 +98,17 @@
 
 ### Named Entity Recognition
 #### Benchmark
-- **[VLSP 2018 Shared Task: Named Entity Recognition Paper](http://vjs.ac.vn/index.php/jcc/article/view/13161/103810382796)**.
+- **[VLSP 2016 Shared Task: Named Entity Recognition](http://vjs.ac.vn/index.php/jcc/article/view/13161/103810382796)**
 
     | Model | F1 | Paper | Code |
     |-------|----|-------|------|
+    | PhoBERT | 94.7 | PhoBERT: Pre-trained language models for Vietnamese | [official](https://github.com/VinAIResearch/PhoBERT) | 
+    | XLM-R | 92.0 | PhoBERT: Pre-trained language models for Vietnamese | |
+    | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
+    | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
     | BERT | 90.75 | | [official](https://github.com/dat821168/bert_vn_ner) |
-    | VNER: Attentive Neural Network | 77.52 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
+    | VNER: Attentive Neural Network | 89.6 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
+    | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: AVietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
     | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
     | BiLSTM | 74.70 | ZA-NER: Vietnamese Named Entity Recognition at VLSP 2018 Evaluation Campaign | |
     | LSTM + CRF | 66.07 | An investigation of Vietnamese Nested Entity Recognition Models | |
