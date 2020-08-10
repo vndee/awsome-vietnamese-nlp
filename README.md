@@ -67,7 +67,15 @@
         | SVM | 0.70 | 0.61 | NLP@UIT at VLSP 2018: A Supervised Method For Aspect Based Sentiment Analysis | |
         | CNN | 0.69 | | Deep Learning for Aspect Detection on Vietnamese Reviews | |
         | SVM | 0.56 | 0.53 | Using Multilayer Perceptron for Aspect-based Sentiment Analysis at VLSP 2018 SA Task | |
+
+- **[Vietnamese Student's Feedback Corpus (UIT-VSFC)](https://ieeexplore.ieee.org/document/8573337)**.
+    - UIT-VSFC consists of over 16,000 sentences for sentiment analysis and topic classification.
     
+        | Model | Sentiment (F1) | Topic (F1) | Paper | Code |
+        |-------|----------------|------------|-------|------|
+        | Bi-LSTM/Word2Vec | 0.896 | 0.92 | Deep Learning versus Traditional Classifiers on Vietnamese Student’s Feedback Corpus | |
+        | Maximum Entropy Classifier | 0.88 | 0.84 | UIT-VSFC: Vietnamese Student’s Feedback Corpus for Sentiment Analysis | |
+ 
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
