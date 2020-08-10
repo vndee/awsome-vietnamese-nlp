@@ -12,6 +12,7 @@
 - [VNTQcorpus(samll)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 300.000 sentences from vnthuquan.net.
 - [VNTQcorpus(big)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 1.750.000 sentences from vnthuquan.net.
 - [OSCAR](https://oscar-corpus.com/): 68GB of text data with 12.036.845.359 words.
+- [Common Crawl](https://commoncrawl.org/): Open repository of web crawl data.
 - [WikiDumps](https://dumps.wikimedia.org/): You can download directly or use scripts from [viwik18](https://github.com/NTT123/viwik18), [viwik19](https://github.com/NTT123/viwik19).
 - [Vietnamese Treebank](https://vlsp.hpda.vn/demo/?page=resources): VLSP Project.
 - [Vietnamese Stopwords](https://github.com/stopwords/vietnamese-stopwords):  Vietnamese stopwords.
