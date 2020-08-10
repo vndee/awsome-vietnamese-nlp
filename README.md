@@ -1,5 +1,10 @@
 # Vietnamese Natural Language Processing Resources
 
+- [Corpus](#Corpus)
+- [Text Processing Toolkit](#Text Processing Toolkit)
+- [Pre-trained Language Model](#Pre-trained Language Model)
+- [Sentiment Analysis](#Sentiment Analysis)
+
 ### Corpus
 - [VN News Corpus](https://github.com/binhvq/news-corpus): 50GB of uncompressed texts crawled from a wide range ofnews websites and topics.
 - [VNESEcorpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 650.000 sentences from vietnamnet.vn, dantri.com.vn, nhandan.com.vn.
@@ -75,7 +80,8 @@
         |-------|----------------|------------|-------|------|
         | Bi-LSTM/Word2Vec | 0.896 | 0.92 | Deep Learning versus Traditional Classifiers on Vietnamese Student’s Feedback Corpus | |
         | Maximum Entropy Classifier | 0.88 | 0.84 | UIT-VSFC: Vietnamese Student’s Feedback Corpus for Sentiment Analysis | |
- 
+
+
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
