@@ -108,7 +108,7 @@
     | XLM-R | 92.0 | PhoBERT: Pre-trained language models for Vietnamese | |
     | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
     | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
-    | BERT | 90.75 | | [official](https://github.com/dat821168/bert_vn_ner) |
+    | BERT multiligual | 90.75 | | [official](https://github.com/dat821168/bert_vn_ner) |
     | VNER: Attentive Neural Network | 89.6 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
     | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: AVietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
     | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
