@@ -81,7 +81,7 @@
         | Bi-LSTM/Word2Vec | 0.896 | 0.92 | Deep Learning versus Traditional Classifiers on Vietnamese Student’s Feedback Corpus | |
         | Maximum Entropy Classifier | 0.88 | 0.84 | UIT-VSFC: Vietnamese Student’s Feedback Corpus for Sentiment Analysis | |
 
-- Papers:
+- **Papers**:
     - Dang-Khoa Nguyen-Nhat, Huu-Thanh Duong. One-Document Training for Vietnamese Sentiment Analysis. CSoNet 2019: Computational Data and Social Networks pp 189-200, 2019.
     - Phu, V.N., Chau, V.T.N., Tran, V.T.N. et al. A Valence-Totaling Model for Vietnamese sentiment classification. Evolving Systems 10, 453–499 (2019).
     - Tran, Thien Khai., Phan, Tuoi Thi. A hybrid approach for building a Vietnamese sentiment dictionary. Journal of Intelligent & Fuzzy Systemvol, 35, no. 1, pp. 967-978, 2018.
