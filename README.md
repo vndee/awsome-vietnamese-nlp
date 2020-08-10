@@ -11,6 +11,7 @@
 - [VNESEcorpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 650.000 sentences from vietnamnet.vn, dantri.com.vn, nhandan.com.vn.
 - [VNTQcorpus(samll)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 300.000 sentences from vnthuquan.net.
 - [VNTQcorpus(big)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 1.750.000 sentences from vnthuquan.net.
+- [OSCAR](https://oscar-corpus.com/): 68GB of text data with 12.036.845.359 words.
 - [WikiDumps](https://dumps.wikimedia.org/): You can download directly or use scripts from [viwik18](https://github.com/NTT123/viwik18), [viwik19](https://github.com/NTT123/viwik19).
 - [Vietnamese Treebank](https://vlsp.hpda.vn/demo/?page=resources): VLSP Project.
 - [Vietnamese Stopwords](https://github.com/stopwords/vietnamese-stopwords):  Vietnamese stopwords.
@@ -108,7 +109,6 @@
     | XLM-R | 92.0 | PhoBERT: Pre-trained language models for Vietnamese | |
     | VnCoreNLP-NER + ETNLP | 91.3 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
     | BiLSTM-CNN-CRF + ETNLP | 91.1 | ETNLP: A visual-aided systematic approachto select pre-trained embeddings for a downstreamtask | |
-    | BERT multiligual | 90.75 | | [official](https://github.com/dat821168/bert_vn_ner) |
     | VNER: Attentive Neural Network | 89.6 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
     | BiLSTM-CNN-CRF | 88.3 | VnCoreNLP: AVietnamese Natural Language Processing Toolkit | [official](https://github.com/vncorenlp/VnCoreNLP) | 
     | LSTM + CRF | 66.07 | An investigation of Vietnamese Nested Entity Recognition Models | |
