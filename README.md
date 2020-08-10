@@ -43,10 +43,10 @@
 ### Sentiment Analysis
 #### Benchmark
 - Papers:
-    - Dang-Khoa Nguyen-Nhat, Huu-Thanh Duong. One-Document Training for Vietnamese Sentiment Analysis. CSoNet 2019: Computational Data and Social Networks pp 189-200.
+    - Dang-Khoa Nguyen-Nhat, Huu-Thanh Duong. One-Document Training for Vietnamese Sentiment Analysis. CSoNet 2019: Computational Data and Social Networks pp 189-200, 2016.
     - Phu, V.N., Chau, V.T.N., Tran, V.T.N. et al. A Valence-Totaling Model for Vietnamese sentiment classification. Evolving Systems 10, 453–499 (2019).
     - Tran, Thien Khai., Phan, Tuoi Thi. A hybrid approach for building a Vietnamese sentiment dictionary. Journal of Intelligent & Fuzzy Systemvol, 35, no. 1, pp. 967-978, 2018.
-    - 
+    - Kieu, Binh & Pham, Son. (2010). Sentiment Analysis for Vietnamese. 152 - 157. 10.1109/KSE.2010.33.
 
 - **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**.
     - Train: 5100 sentences (1700 positive, 1700 neutral, 1700 negative).
