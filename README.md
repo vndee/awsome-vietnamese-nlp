@@ -102,6 +102,7 @@
 
     | Model | F1 | Paper | Code |
     |-------|----|-------|------|
+    | BERT | 90.75 | | [official](https://github.com/dat821168/bert_vn_ner) |
     | VNER: Attentive Neural Network | 77.52 | Attentive Neural Network for Named Entity Recognition in Vietnamese | |
     | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
     | BiLSTM | 74.70 | ZA-NER: Vietnamese Named Entity Recognition at VLSP 2018 Evaluation Campaign | |
