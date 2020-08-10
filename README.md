@@ -46,7 +46,14 @@
     - Dang-Khoa Nguyen-Nhat, Huu-Thanh Duong. One-Document Training for Vietnamese Sentiment Analysis. CSoNet 2019: Computational Data and Social Networks pp 189-200, 2016.
     - Phu, V.N., Chau, V.T.N., Tran, V.T.N. et al. A Valence-Totaling Model for Vietnamese sentiment classification. Evolving Systems 10, 453–499 (2019).
     - Tran, Thien Khai., Phan, Tuoi Thi. A hybrid approach for building a Vietnamese sentiment dictionary. Journal of Intelligent & Fuzzy Systemvol, 35, no. 1, pp. 967-978, 2018.
-    - Kieu, Binh & Pham, Son. (2010). Sentiment Analysis for Vietnamese. 152 - 157. 10.1109/KSE.2010.33.
+    - T. A. Nguyen and P. Q. N. Minh, "Using multilayer perceptron for aspect-based sentiment analysis at vlsp-2018 sa task," in In Proceedings of the Fifth International workshop on Vietnamese Language and Speech Processing (VLSP 2018), 2018.
+    - T. D. Van, K. V. Nguyen, and N. L.-T. Nguyen., "Nlp@uit at vlsp 2018: A supervised method for aspect based sentiment analysis," in In Proceedings of the Fifth International workshop on Vietnamese Language and Speech Processing (VLSP 2018), 2018.
+    - N. V. Vi, H. V. Minh, and N. T. Tam, "Sentiment analysis for vietnamese using support vector machines with application to facebook," in in The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016), 2016.
+    - N. Hy, L. Tung, L. Viet-Thang, and D. Dien, "A simple supervised learning approach to sentiment classication at vlsp 2016," in in The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016), 2016. 
+    - P. M. Q. Nhat and T. T. Tran, "A lightweight ensemble method for sentiment classication task," in in The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016), 2016.
+    - T. T. Tran, X. Ho, and N. T. Nguyen, "A multi-layer neural network based system for vietnamese sentiment analysis at the vlsp 2016 evaluation campaign," in in The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016), 2016.
+    - T. P. Quynh-Trang, N. Xuan-Truong, T. Van-Hien, N. Thi-Cham, and T. Mai-Vu, "Dsktlab: Vietnamese sentiment analysis for product reviews," in The Fourth International Workshop on Vietnamese Language and Speech Processing (VLSP 2016), 2016.
+    - Kieu, Binh & Pham, Son. Sentiment Analysis for Vietnamese. 152 - 157. 10.1109/KSE.2010.33, (2010).
 
 - **[VLSP 2016 Share Task: Sentiment Analysis](https://vlsp.org.vn/vlsp2016/eval/sa)**.
     - Train: 5100 sentences (1700 positive, 1700 neutral, 1700 negative).
