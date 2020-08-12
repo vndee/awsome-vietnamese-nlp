@@ -42,6 +42,7 @@
 - [PhoBERT](https://github.com/VinAIResearch/PhoBERT): Pre-trained language models for Vietnamese (another implementation of RoBERTa for Vietnamese).
 - [ALBERT for Vietnamese](https://github.com/ngoanpv/albert_vi): "A Lite" version of BERT for Vietnamese.
 - [Vietnamese ELECTRA](https://github.com/nguyenvulebinh/vietnamese-electra):  Electra pre-trained model using Vietnamese corpus.
+- [word2vecVN](https://github.com/sonvx/word2vecVN): Pre-trained Word2Vec models for Vietnamese.
 
 ### Sentiment Analysis
 #### Benchmark
@@ -120,8 +121,10 @@
     | vELECTRA + BiGRU | 90.31 | Improving Sequence Tagging for Vietnamese Text Using Transformer-based Neural Models | |
     | VIETNER: CRF (ngrams + word shapes + cluster + w2v) | 76.63 | A Feature-Based Model for Nested Named-Entity RecognitionatVLSP-2018 NER Evaluation Campaign | |
     | ZA-NER | 74.70 | ZA-NER: Vietnamese Named Entity Recognition at VLSP 2018 Evaluation Campaign | |
-
     
+#### Papers
+
+
 ### Text-To-Speech
 #### Dataset:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
