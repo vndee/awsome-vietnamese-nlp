@@ -26,7 +26,7 @@
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP):  A Vietnamese natural language processing toolkit (NAACL 2018).
 - [vlp-tok](https://github.com/phuonglh/vlp): Vietnamese text processing library developed in the Scala programming language.
 - [ETNLP](https://github.com/vietnlp/etnlp): A toolkit for Extraction, Evaluation and Visualization of Pre-trained Word Embeddings.
-- [VietnameseTextNormalizer](https://github.com/langmaninternet/VietnameseTextNormalizer): Vietnamese Text Normalizer
+- [VietnameseTextNormalizer](https://github.com/langmaninternet/VietnameseTextNormalizer): Vietnamese Text Normalizer.
 - [nnvlp](https://github.com/pth1993/NNVLP): Neural network-based Vietnamese language processing toolkit.
 - [jPTDP](https://github.com/datquocnguyen/jPTDP):  Neural network models for joint POS tagging and dependency parsing (CoNLL 2017-2018).
 - [vi_spacy](https://github.com/trungtv/vi_spacy): vietnamese language model compatible with Spacy.
