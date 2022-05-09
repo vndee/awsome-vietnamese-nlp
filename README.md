@@ -128,5 +128,9 @@
 
 
 ### Text-To-Speech
-#### Dataset:
+#### Corpus:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
+- [Vivos + InfoRe 1 + InfoRe 2](https://github.com/TensorSpeech/TensorFlowASR/blob/main/README.md#vietnamese)
+
+#### Project
+- [vietTTS](https://github.com/NTT123/vietTTS): Tacotron + HiFiGAN vocoder for vietnamese datasets.
