@@ -1,5 +1,7 @@
 # Vietnamese Natural Language Processing Resources
 
+> Create a pull request to add your works into this list.
+
 - [Corpus](#Corpus)
 - [Text Processing Toolkit](#Text-Processing-Toolkit)
 - [Pre-trained Language Model](#Pre-trained-Language-Model)
