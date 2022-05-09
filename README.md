@@ -6,7 +6,8 @@
 - [Text Processing Toolkit](#Text-Processing-Toolkit)
 - [Pre-trained Language Model](#Pre-trained-Language-Model)
 - [Sentiment Analysis](#Sentiment-Analysis)
-- [Named Entity Recognition](#named-entity-recognition)
+- [Named Entity Recognition](#Named-Entity-Recognition)
+- [Speech Processing](#Speech-Processing)
 
 ### Corpus
 - [VN News Corpus](https://github.com/binhvq/news-corpus): 50GB of uncompressed texts crawled from a wide range ofnews websites and topics.
@@ -129,7 +130,7 @@
 #### Papers
 
 
-### Text-To-Speech
+### Speech Processing
 #### Corpus:
 - [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
 - [Vivos + InfoRe 1 + InfoRe 2](https://github.com/TensorSpeech/TensorFlowASR/blob/main/README.md#vietnamese)
