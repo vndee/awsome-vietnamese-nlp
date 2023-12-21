@@ -1,6 +1,6 @@
 # Vietnamese Natural Language Processing Resources
 
-> Create a pull request to add your works into this list.
+> Create a pull request or issue to add your works into this list.
 
 - [Large Language Models](#Large-Language-Models)
 - [Corpus](#Corpus)
