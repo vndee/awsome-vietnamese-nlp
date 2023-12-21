@@ -31,6 +31,9 @@
 - [Vietnamese Stopwords](https://github.com/stopwords/vietnamese-stopwords):  Vietnamese stopwords.
 - [Vietnamese Dictionary](https://www.informatik.uni-leipzig.de/~duc/Dict/): Vietnamese dictionary.
 - [vietnamese-wordnet](https://github.com/zeloru/vietnamese-wordnet): Vietnamese wordnet.
+- [VietnameseWAC](https://xltiengviet.fandom.com/wiki/VietnameseWAC): The dataset comprises a substantial collection of Vietnamese text, consisting of 129,781,089 tokens and 106,464,835 words, which have been automatically segmented and labeled as per Kilgarriff, A., and Le-Hong, P., 2012.
+- [Vietlex Corpus](https://www.vietlex.com/help/about_corpus.htm): Vietlex's Vietnamese Corpus, a pioneering effort in Vietnam since 1998, contains about 80 million syllables from various sources.
+- [Lexical Database of Vietnamese](https://era.library.ualberta.ca/items/90d5b06c-e508-45b3-8526-3509bceb930e): A lexical database of Vietnamese contains various lexical information derived from two Vietnamese corpora.
 
 ### Text Processing Toolkit
 - [coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer): High performance tokenizer for Vietnamese language. It is written in C++ with Python and Java bindings.
