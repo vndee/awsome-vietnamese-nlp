@@ -32,7 +32,7 @@
 - [VietnameseTextNormalizer](https://github.com/langmaninternet/VietnameseTextNormalizer): Vietnamese Text Normalizer.
 - [nnvlp](https://github.com/pth1993/NNVLP): Neural network-based Vietnamese language processing toolkit.
 - [jPTDP](https://github.com/datquocnguyen/jPTDP):  Neural network models for joint POS tagging and dependency parsing (CoNLL 2017-2018).
-- [vi_spacy](https://github.com/trungtv/vi_spacy): vietnamese language model compatible with Spacy.
+- [vi_spacy](https://github.com/trungtv/vi_spacy): Vietnamese language model compatible with Spacy.
 - [underthesea](https://underthesea.readthedocs.io/en/latest/readme.html): Underthesea - Vietnamese NLP toolkit.
 - [vnlp](https://bitbucket.org/epilab/vnlp/wiki/Home): GATE plugin for Vietnamese language processing.
 - [pyvi](https://github.com/trungtv/pyvi): Python Vietnamese toolkit.
