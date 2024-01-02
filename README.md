@@ -11,6 +11,7 @@
 - [Speech Processing](#Speech-Processing)
 
 ### Large Language Models
+- [VBD-LLaMA2-Chat](https://huggingface.co/LR-AI-Labs/vbd-llama2-7B-50b-chat): A Conversationally-tuned LLaMA2 for Vietnamese.
 - [Vietnamse LLaMA 2](https://github.com/bkai-research/Vietnamese-LLaMA-2): A 7B version of LLaMA 2 with 140GB of Vietnamese text by BKAI Foundation Models Lab.
 - [VinaLlaMA](https://huggingface.co/collections/vilm/vinallama-654a099308775ce78e630a6f): Another collection of Vietnamese LlaMA tuned models.
 - [PhoGPT](https://github.com/VinAIResearch/PhoGPT): They open-source a state-of-the-art 7.5B-parameter generative model series named PhoGPT for Vietnamese, which includes the base pre-trained monolingual model PhoGPT-7B5 and its instruction-following variant PhoGPT-7B5-Instruct.
