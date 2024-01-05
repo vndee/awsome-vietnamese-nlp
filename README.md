@@ -12,6 +12,7 @@
 
 ### Large Language Models
 - [ViGPTQA](https://github.com/DopikAI-Labs/ViGPT): LLMs for Vietnamese Question Answering
+- [ToRoLaMa](https://github.com/allbyai/ToRoLaMa): The Vietnamese Instruction-Following and Chat Model.
 - [VBD-LLaMA2-Chat](https://huggingface.co/LR-AI-Labs/vbd-llama2-7B-50b-chat): A Conversationally-tuned LLaMA2 for Vietnamese.
 - [Vietnamse LLaMA 2](https://github.com/bkai-research/Vietnamese-LLaMA-2): A 7B version of LLaMA 2 with 140GB of Vietnamese text by BKAI Foundation Models Lab.
 - [VinaLlaMA](https://huggingface.co/collections/vilm/vinallama-654a099308775ce78e630a6f): Another collection of Vietnamese LlaMA tuned models.
