@@ -11,6 +11,7 @@
 - [Speech Processing](#Speech-Processing)
 
 ### Large Language Models
+- [Vistral-7B-Chat](https://huggingface.co/Viet-Mistral/Vistral-7B-Chat): Towards a State-of-the-Art Large Language Model for Vietnamese
 - [ViGPTQA](https://github.com/DopikAI-Labs/ViGPT): LLMs for Vietnamese Question Answering
 - [ToRoLaMa](https://github.com/allbyai/ToRoLaMa): The Vietnamese Instruction-Following and Chat Model.
 - [VBD-LLaMA2-Chat](https://huggingface.co/LR-AI-Labs/vbd-llama2-7B-50b-chat): A Conversationally-tuned LLaMA2 for Vietnamese.
