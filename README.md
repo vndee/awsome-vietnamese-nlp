@@ -11,6 +11,7 @@
 - [Speech Processing](#Speech-Processing)
 
 ### Large Language Models
+- [GemSUra](https://huggingface.co/collections/ura-hcmut/gemsura-65da96cd27be2e8c65f17131): Pretrained Large Language Models based on Gemma built by URA (HCMUT).
 - [Ghost-7b](https://huggingface.co/lamhieu/ghost-7b-v0.9.0): This model is fine tuned from HuggingFaceH4/zephyr-7b-beta on a small synthetic datasets (about 200MB) for 50% English and 50% Vietnamese.
 - [PhoGPT](https://github.com/VinAIResearch/PhoGPT): They open-source a state-of-the-art 7.5B-parameter generative model series named PhoGPT for Vietnamese, which includes the base pre-trained monolingual model PhoGPT-7B5 and its instruction-following variant PhoGPT-7B5-Instruct.
 - [Sailor](https://huggingface.co/collections/sail/sailor-language-models-65e19a749f978976f1959825): Sailor is a suite of Open Language Models tailored for South-East Asia (SEA), focusing on languages such as 🇮🇩Indonesian, 🇹🇭Thai, 🇻🇳Vietnamese, 🇲🇾Malay, and 🇱🇦Lao.
