@@ -11,6 +11,7 @@
 - [Speech Processing](#Speech-Processing)
 
 ### Large Language Models
+- [Ghost-7b](https://huggingface.co/lamhieu/ghost-7b-v0.9.0): This model is fine tuned from HuggingFaceH4/zephyr-7b-beta on a small synthetic datasets (about 200MB) for 50% English and 50% Vietnamese.
 - [Vistral-7B-Chat](https://huggingface.co/Viet-Mistral/Vistral-7B-Chat): Towards a State-of-the-Art Large Language Model for Vietnamese
 - [ViGPTQA](https://github.com/DopikAI-Labs/ViGPT): LLMs for Vietnamese Question Answering
 - [ToRoLaMa](https://github.com/allbyai/ToRoLaMa): The Vietnamese Instruction-Following and Chat Model.
