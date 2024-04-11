@@ -139,8 +139,16 @@
 
 ### Speech Processing
 #### Corpus:
-- [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs).
-- [Vivos + InfoRe 1 + InfoRe 2](https://github.com/TensorSpeech/TensorFlowASR/blob/main/README.md#vietnamese)
+- VLSP 2020 - ASR challenge - training set: [announcement](https://institute.vinbigdata.org/events/vinbigdata-chia-se-100-gio-du-lieu-tieng-noi-cho-cong-dong/), [unofficial mirror link on huggingface](https://huggingface.co/datasets/doof-ferb/vlsp2020_vinai_100h)
+- VIVOS: [official link](http://ailab.hcmus.edu.vn/vivos), [mirror link on huggingface](https://huggingface.co/datasets/vivos)
+- Bud500: [announcement](https://github.com/quocanh34/Bud500), [mirror link on huggingface](https://huggingface.co/datasets/linhtran92/viet_bud500)
+- FOSD (FPT open speech dataset): [official link](https://data.mendeley.com/datasets/k9sxg2twv4/4), [unofficial mirror link on huggingface](https://huggingface.co/datasets/doof-ferb/fpt_fosd)
+- LSVSC (Large-scale Vietnamese speech corpus): [announcement](https://www.mdpi.com/2079-9292/13/5/977), [unofficial mirror link on huggingface](https://huggingface.co/datasets/doof-ferb/LSVSC)
+- Infore: [official link](https://www.facebook.com/groups/j2team.community/permalink/1010834009248719/), [unofficial mirror link for dataset 1 on huggingface](https://huggingface.co/datasets/doof-ferb/infore1_25hours), [unofficial mirror link for dataset 2 on huggingface](https://huggingface.co/datasets/doof-ferb/infore2_audiobooks)
+- [unofficial mirror link Vivos + InfoRe 1 + InfoRe 2](https://github.com/TensorSpeech/TensorFlowASR/blob/main/README.md#vietnamese)
+- [VietTTS-v1](https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset): A synthesized dataset for Vietnamese TTS task (35.1 hrs)
+- [Mozilla CommonVoice](https://commonvoice.mozilla.org/vi/datasets)
+- [Google FLEURS](https://huggingface.co/datasets/google/fleurs)
 
 #### Project
 - [vietTTS](https://github.com/NTT123/vietTTS): Tacotron + HiFiGAN vocoder for vietnamese datasets.
