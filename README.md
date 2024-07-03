@@ -29,6 +29,13 @@
 
 ### Corpus
 > For more recent updates, you can consider searching for datasets that include Vietnamese on HuggingFace here: https://huggingface.co/datasets?language=language:vi&sort=trending
+- [Math Instruction datasets](https://huggingface.co/collections/5CD-AI/math-instruction-datasets-660801f244a011983be58fe0): A series of translated datasets by 5CD AI Team.
+- [LLaVA - Visual Question Answering](https://huggingface.co/collections/5CD-AI/llava-visual-question-answering-6608019995db9114e35b1fb9): A series of translated datasets by 5CD AI Team.
+- [CoT Instruction datasets](https://huggingface.co/collections/5CD-AI/cot-instruction-datasets-660800b52e58edd19eafe7e6): A series of translated datasets by 5CD AI Team.
+- [DPO Instruction datasets](https://huggingface.co/collections/5CD-AI/dpo-instruction-datasets-6608026d80f057ee616e8bf5): A series of translated datasets by 5CD AI Team.
+- [Retrieve-Rerank datasets](https://huggingface.co/collections/5CD-AI/retrieve-rerank-datasets-6660436222834190f7f26c0d): A series of translated datasets by 5CD AI Team.
+- [Coding Instruction datasets](https://huggingface.co/collections/5CD-AI/coding-instruction-datasets-666fde69ad3050dd2bc67e6a): A series of translated datasets by 5CD AI Team.
+- [Chat Instruction datasets](https://huggingface.co/collections/5CD-AI/chat-instruction-datasets-666fdf510de9ee884ba43026): A series of translated datasets by 5CD AI Team.
 - [VN News Corpus](https://github.com/binhvq/news-corpus): 50GB of uncompressed texts crawled from a wide range ofnews websites and topics.
 - [10000 Vietnamese Books](https://www.kaggle.com/datasets/iambestfeeder/10000-vietnamese-books): 10000 Vietnamese Books from 195x.
 - [CulturaX](https://huggingface.co/papers/2309.09400): A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages
