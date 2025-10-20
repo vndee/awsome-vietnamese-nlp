@@ -2,6 +2,8 @@
 
 > Create a pull request or issue to add your works into this list.
 
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/vndee)
+
 - [Large Language Models](#Large-Language-Models)
 - [Corpus](#Corpus)
 - [Text Processing Toolkit](#Text-Processing-Toolkit)
